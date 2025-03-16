@@ -17,7 +17,7 @@
     "@sentry/profiling-node": "^1.1.2",
     "@types/dompurify": "^2.0.3",
     "@types/node": "^14",
-    "@types/react": "^16.9.46",
+    "@types/react": "^16.14.62",
     "@types/react-dom": "^16.9.8",
     "@types/react-helmet": "^6.1.0",
     "@types/react-select": "^3.0.19",
